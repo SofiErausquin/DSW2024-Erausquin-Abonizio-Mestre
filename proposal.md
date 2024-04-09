@@ -3,6 +3,9 @@
 ## Grupo
 ### Integrantes
 * legajo - Apellido(s), Nombre(s)
+* 51490  - Erausquin, Sofia
+* 51153  - Abonizio, Abril
+* 51494  - Mestre, Marcos
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
