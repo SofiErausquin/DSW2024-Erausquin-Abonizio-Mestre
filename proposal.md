@@ -19,7 +19,7 @@ Somos un centro de ski y ofrecemos el servicio de compra de diferentes tipos de 
 
 ### Modelo
 link:
-https://discord.com/channels/1140959568353054731/1140959568353054736/1228444885598863442
+https://drive.google.com/file/d/1svq_grbS4N1rKJ-4NkbK0uvPjkfvipR4/view?usp=sharing
 
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
